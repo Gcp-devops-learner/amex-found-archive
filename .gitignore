@@ -1,0 +1,8 @@
+**/*.json
+**/*.tfstate*
+**/*.tfvars
+**/.terraform
+**/*.swp
+**/*.backup
+**/*.log
+**/*.plan
